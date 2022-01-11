@@ -1,0 +1,36 @@
+{
+  "name": "sourcebot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emenegger",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "@discordjs/voice": "^0.7.5",
+    "@distube/spotify": "^1.0.0",
+    "@koenie06/discord.js-music": "^1.2.9",
+    "ascii-table": "^0.0.9",
+    "canvas": "^2.8.0",
+    "discord.js": "^13.5.0",
+    "distube": "^3.0.7",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.4.1",
+    "glob": "^7.2.0",
+    "libsodium-wrappers": "^0.7.9",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emendocraft/SourceBot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Emendocraft/SourceBot/issues"
+  },
+  "homepage": "https://github.com/Emendocraft/SourceBot#readme",
+  "description": ""
+}
