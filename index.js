@@ -42,7 +42,7 @@ require("./Handlers/Events")(client);
 require("./Handlers/Commands")(client);
 
     // send welcome message
-const welcomeChannelId = "864616888407031859"
+const welcomeChannelId = process.env.WELCOMECHANNEL
 
 client.on("guildMemberAdd", async (member) => {
     const img = await generateImage(member)
