@@ -4,8 +4,6 @@ If you want to install this bot you need to create a .env file after you downloa
 the .env File should contain following lines.
 "TOKEN=YOURDISCORDBOTTOKEN
 
-GUILD=YOURGUILDID
-
 WELCOMECHANNEL=YOURWELCOMECHANNELID"
 
 If you are completely new to this whole thing then go watch a tutorial on how to set up a "Discord.js V13 bot" first.
